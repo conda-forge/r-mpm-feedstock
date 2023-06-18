@@ -1,11 +1,11 @@
-About r-mpm
-===========
+About r-mpm-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-mpm-feedstock/blob/main/LICENSE.txt)
 
 Home: http://mpm.r-forge.r-project.org
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-mpm-feedstock/blob/main/LICENSE.txt)
 
 Summary: Exploratory graphical analysis of multivariate data, specifically gene expression data with different projection methods: principal component analysis, correspondence analysis, spectral map analysis.
 
